@@ -262,7 +262,9 @@ def main():
     #check what actions the user would like to perform with the file.
     while True:
         if selection != '':
-            selection = input('Press enter to continue or type "q" to quit:\n' + '>>> ')
+            selection = input('Press enter to continue or type "q" to quit:\n' +
+                              '*hint, you can also enter an option number to continue if desired*\n' +
+                              '>>> ')
             os.system('cls')
             
         if selection == '':
@@ -384,6 +386,7 @@ def main():
             exit()
 
         else:
+            print('Input number unrecognised ')
             continue
                
     
