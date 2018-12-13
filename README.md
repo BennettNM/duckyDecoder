@@ -1,5 +1,5 @@
 # duckyDecoder
-The 'Ducky Decoder' program was created to allow a user to take programs written for 'ducky' devices, convert the code into a human readable format, allowing the user to see exactly what the program is designed to do (what actions it will perform on the target system). Additionally, the 'Ducky Decoder' will also allow the user to make changes to the ducky code such as editing existing code, however, it is NOT designed to allow the user to extend the code, so actions such as adding additional lines to the code, is out of scope of this program.
+The 'Ducky Decoder' program was created to allow a user to take programs written for 'ducky' devices, convert the code into a human readable format, allowing the user to see exactly what the program is designed to do (what actions it will perform on the target system). Additionally, the 'Ducky Decoder' will also allow the user to make changes to the ducky code such as editing existing code, however, it is NOT designed to allow the user to extend the code, so actions such as 'adding additional lines to the code' are out of scope of this program.
 
 A couple of importaint notes: in order for this program to work, the 'Ducky-Decode.json' file is REQUIRED as it contontains the dictionary used to translate operational codes to human readable text, and reverse the process.
 
