@@ -32,7 +32,7 @@ Option 1: This option will present the human readable format of the code to the 
 
 Option 2: This option allows the user to see the actual operational codes that the Ducky device will use (as the operational codes are flipped from the middle out when used)
 
-Option 3: This option allows the user to change one or many lines within the code, changing instructions or strings as required (for example changing the string 'www.attacker.com' to 'www.google.com') but still allowing the program to work. (if required) **NOTE** when entering instructions (a list of instructions is provided by entering 'help') these MUST be entered in UPPERCASE (e.g. DELAY 100, not delay 100)
+Option 3: This option allows the user to change one or many lines within the code, changing instructions or strings as required (for example changing the string 'one' to 'two') but still allowing the program to work. (if required) **NOTE** when entering instructions (a list of instructions is provided by entering 'help') these MUST be entered in UPPERCASE (e.g. DELAY 100, not delay 100)
 
 Option 4: This option allows the user to return to the originally created file, then returns to the menu to allow the user to continue.
 
